@@ -8,7 +8,7 @@ void main() {
         (WidgetTester tester) async {
       await tester.pumpWidget(
         const MaterialApp(
-          home: WaitingRoomCard(name: 'tasnime eljed'),
+          home: WaitingRoomCard(name: 'Elae Abdennebi'),
         ),
       );
 
